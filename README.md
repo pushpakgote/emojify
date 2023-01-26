@@ -1,5 +1,5 @@
 # Emojify
-Sentiment Analysis with Emojy. This app understands sentiment of the sentence and adds one of the 5 emoji's:
+Built a sentiment classifier using word embeddings. This app understands sentiment of the sentence and adds one of the 5 emoji's:
 
 `heart` : ❤️
          
